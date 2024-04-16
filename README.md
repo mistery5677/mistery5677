@@ -8,7 +8,7 @@
 
 ⚡ I have university degree on cooking, and im learning science computing to change my career
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My status</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistery5677&label=Profile%20views&color=0e75b6&style=flat" alt="mistery5677" /> </p>
 
